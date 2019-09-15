@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 html,body{
   font-family: times;
   color: #fff;
@@ -29,4 +33,89 @@ html,body{
   background-position: center;
   background-attachment: fixed;
   text-align: center;
+}
+
+
+/* Experiences */
+
+.Experiences{
+  height: 100%;
+  background-image: url('../images/joshua-hibbert-Pn6iimgM-wo-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+
+
+/* Education */
+
+.Education{
+  height: 100%;
+  background-image: url('../images/aron-visuals-5wxay7D7yjE-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+
+
+/* Skills */
+
+.Skills{
+  height: 100%;
+  background-image: url('../images/19547.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+.Skills .progress{
+  margin-top: 1rem;
+  height: 2rem;
+}
+
+
+/* Activities */
+
+.Activities{
+  height: 100%;
+  background-image: url('../images/shifaaz-shamoon-4mQbBC6Do0Y-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+
+/* Contacts */
+
+.Contacts{
+  height: 100%;
+  background-image: url('../images/priscilla-du-preez-MU93ZoQPNB8-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+
+/* Footer */
+
+.Footer{
+  height: 100%;
+  background-image: url('../images/lucas-gallone-7E2IVelB3zg-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+
 }
