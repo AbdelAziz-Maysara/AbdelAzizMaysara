@@ -78,6 +78,7 @@ html,body{
 .Skills .progress{
   margin-top: 1rem;
   height: 2rem;
+  font-size: 1rem;
 }
 
 
@@ -85,7 +86,7 @@ html,body{
 
 .Activities{
   height: 100%;
-  background-image: url('../images/shifaaz-shamoon-4mQbBC6Do0Y-unsplash.jpg');
+  background-image: url('../images/greg-rakozy-oMpAz-DN-9I-unsplash.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -104,6 +105,12 @@ html,body{
   background-position: center;
   background-attachment: fixed;
   text-align: center;
+}
+
+.Contacts a{
+  text-decoration: none;
+  color: pink;
+
 }
 
 
